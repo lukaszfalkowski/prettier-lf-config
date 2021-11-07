@@ -1,0 +1,24 @@
+{
+  "name": "prettier-lf-config",
+  "version": "1.0.0",
+  "description": "A Prettier configuration based off the Airbnb JavaScript style guide with modifications by LF",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszfalkowski/prettier-lf-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "lf",
+    "config"
+  ],
+  "author": "Lukasz Falkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszfalkowski/prettier-lf-config/issues"
+  },
+  "homepage": "https://github.com/lukaszfalkowski/prettier-lf-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
